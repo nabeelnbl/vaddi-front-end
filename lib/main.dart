@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         }
       },
       child: MaterialApp(
-        title: 'Auth',
+        title: 'My App',
         debugShowCheckedModeBanner: false,
         theme: Stlyes.themeData(),
         home: HomePage(),

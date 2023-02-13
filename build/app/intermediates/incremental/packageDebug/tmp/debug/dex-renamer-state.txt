@@ -1,4 +1,0 @@
-#Wed Nov 09 14:22:54 IST 2022
-base.0=/home/nabeel/Desktop/signup-flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
